@@ -2,9 +2,14 @@
     --branco-principal: #FFFFFF;
     --cinza-secundario: #c0c0c0; 
     --botao-rosa: #FF14F3;  
-    --cor-de-fundo: #87CEFA;
+    --cor-de-fundo: #ADD8E6;
 }
 
 body {
     background-color: var(--cor-de-fundo);
+}
+
+* {
+    margin: 0;
+    padding: 0;
 }
